@@ -61,6 +61,10 @@
 
 - Java 8 или выше
 
+## Теория
+
+https://docs.google.com/document/d/1AyANQWqBlmt6wTaejgphsG5PZFvM92CU/edit
+
 ## Авторы
 
 - **Олексевич Анна** - разработка и проектирование
