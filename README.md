@@ -30,17 +30,17 @@
     ```
 2. **Перейдите в директорию проекта**:
     ```bash
-    cd multiplication-trainer
+    cd MultiplicationTrainer
     ```
 
 3. **Скомпилируйте проект**:
     ```bash
-    javac *.java
+    javac src/*.java
     ```
 
 4. **Запустите приложение**:
     ```bash
-    java Main
+    java -cp src Main
     ```
 
 ## Пример работы
